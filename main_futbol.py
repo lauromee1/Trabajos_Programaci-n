@@ -1,5 +1,3 @@
-# main_futbol.py
-
 from equipo_futbol import cargar_matriz, mostrar_matriz, modificar_matriz
 
 def menu():
